@@ -1,7 +1,4 @@
-# Exercise 1
-
-## Created by
-- Saini
+# Class 12
 
 ## Description
-- This is a recreation of the twitter login page
+- parent to child and child to parent
